@@ -1,5 +1,5 @@
 """
-CineForge Engine - Autonomous AI Video Production Suite
+CineCraft.ai-Skill - Autonomous AI Video Production Suite
 """
 
 __version__ = "1.0.0"

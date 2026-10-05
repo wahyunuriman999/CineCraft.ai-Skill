@@ -1,9 +1,9 @@
 ---
-name: cineforge-engine
+name: cinecraft-ai-skill
 description: Industrial-grade Autonomous AI Video Production & Editing Suite. Synthesizes 44 tier-1 repositories into 8 unified engines covering lossless stream surgery, 9:16 vertical auto-reframing with face tracking, acoustic trigger detection & DAW mixing, Remotion/WASM declarative rendering, viral shorts forge with beat-synced montage pacing, human-creator aesthetic scrapbooking, and multi-platform social distribution.
 ---
 
-# 🎬 CineForge Engine: Apex Autonomous Video Production Suite
+# 🎬 CineCraft.ai-Skill: Apex Autonomous Video Production Suite
 
 Skill ini mendefinisikan standar operasional prosedur (SOP), arsitektur teknis, formula FFmpeg, serta script automasi terpadu dari **CineForge Engine**. Menggabungkan DNA dari **44 repositori video editing open-source terkemuka di dunia** ke dalam 8 mesin produksi otonom untuk AI Coding Assistants (Google Antigravity, Claude Code, Codex).
 

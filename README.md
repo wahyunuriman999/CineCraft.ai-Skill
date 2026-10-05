@@ -1,4 +1,4 @@
-# 🎬 CineForge Engine
+# 🎬 CineCraft.ai-Skill
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 🌟 Overview
 
-**CineForge Engine** is an industrial-grade autonomous video production and editing runtime designed specifically for AI agents (Google Antigravity, Claude Code, OpenAI Codex). 
+**CineCraft.ai-Skill** is an industrial-grade autonomous video production and editing runtime designed specifically for AI agents (Google Antigravity, Claude Code, OpenAI Codex). 
 
 Unlike standard FFmpeg wrappers, CineForge combines **cognitive rhythm pacing**, **instant keyframe stream surgery**, **beat-synced montage generation**, **multi-cam split compositing**, and **aesthetic creator scrapbooking** (paper tape overlays, clean serif typography, warm cream card outros) with **zero tacky meme clutter**.
 
@@ -101,7 +101,7 @@ generate_cream_outro(
 ### Google Antigravity / Claude Code
 Clone or copy this repository into your agent's skills directory:
 ```bash
-git clone https://github.com/wahyunuriman999/CineForge-Engine.git ~/.gemini/config/skills/cineforge-engine
+git clone https://github.com/wahyunuriman999/CineCraft.ai-Skill.git ~/.gemini/config/skills/cinecraft-ai-skill
 ```
 
 The agent will automatically recognize `SKILL.md` and acquire autonomous video editing capabilities!
